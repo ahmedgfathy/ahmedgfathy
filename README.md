@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Fathy </h1>
+<h1 align="center">Hi 👋, I'm Ahmed Fathy</h1>
 <h3 align="center">DevOps Engineer | Linux Administrator | Cloud Solutions Architect | Fullstack Developer</h3>
 
 ---
@@ -40,8 +40,9 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&theme=radical&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ahmedgfathy&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgfathy&theme=radical&layout=compact)
 
 ---
 
@@ -50,4 +51,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
